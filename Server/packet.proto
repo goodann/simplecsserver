@@ -1,0 +1,6 @@
+
+package Packet;
+message packet
+{
+	required int32 i = 1;
+}

@@ -1,0 +1,17 @@
+D:\cs\ConsoleApp1\Client\bin\Debug\net8.0\Client.exe
+D:\cs\ConsoleApp1\Client\bin\Debug\net8.0\Client.deps.json
+D:\cs\ConsoleApp1\Client\bin\Debug\net8.0\Client.runtimeconfig.json
+D:\cs\ConsoleApp1\Client\bin\Debug\net8.0\Client.dll
+D:\cs\ConsoleApp1\Client\bin\Debug\net8.0\Client.pdb
+D:\cs\ConsoleApp1\Client\obj\Debug\net8.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\cs\ConsoleApp1\Client\obj\Debug\net8.0\Client.AssemblyInfoInputs.cache
+D:\cs\ConsoleApp1\Client\obj\Debug\net8.0\Client.AssemblyInfo.cs
+D:\cs\ConsoleApp1\Client\obj\Debug\net8.0\Client.csproj.CoreCompileInputs.cache
+D:\cs\ConsoleApp1\Client\obj\Debug\net8.0\Client.dll
+D:\cs\ConsoleApp1\Client\obj\Debug\net8.0\refint\Client.dll
+D:\cs\ConsoleApp1\Client\obj\Debug\net8.0\Client.pdb
+D:\cs\ConsoleApp1\Client\obj\Debug\net8.0\Client.genruntimeconfig.cache
+D:\cs\ConsoleApp1\Client\obj\Debug\net8.0\ref\Client.dll
+D:\cs\ConsoleApp1\Client\bin\Debug\net8.0\Google.Protobuf.dll
+D:\cs\ConsoleApp1\Client\obj\Debug\net8.0\Client.csproj.AssemblyReference.cache
+D:\cs\ConsoleApp1\Client\obj\Debug\net8.0\Client.csproj.CopyComplete

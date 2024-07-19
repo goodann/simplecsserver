@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5wxCsy3vV8DuzSMFp+SFVTSIF+S8DYpvsd0d7cr/5LVZVTn8Bo1/LEQyD+SqduEEK8iiGPKSNk0G2zEIr0VBaw==",
+  "success": true,
+  "projectFilePath": "D:\\cs\\ConsoleApp1\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\goodann\\.nuget\\packages\\google.protobuf\\3.27.2\\google.protobuf.3.27.2.nupkg.sha512"
+  ],
+  "logs": []
+}

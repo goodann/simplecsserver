@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "pVkU2b3kWy6T6wGZT5oq8UX3pqhe/wF9q6DZes/n121PqByNBzqMQCIBURRJVut4cXV9BIOY0ZaKH/A4114UPg==",
+  "success": true,
+  "projectFilePath": "D:\\cs\\ConsoleApp1\\Server\\Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\goodann\\.nuget\\packages\\google.protobuf\\3.27.2\\google.protobuf.3.27.2.nupkg.sha512",
+    "C:\\Users\\goodann\\.nuget\\packages\\protobuf-net\\3.2.30\\protobuf-net.3.2.30.nupkg.sha512",
+    "C:\\Users\\goodann\\.nuget\\packages\\protobuf-net.core\\3.2.30\\protobuf-net.core.3.2.30.nupkg.sha512",
+    "C:\\Users\\goodann\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
